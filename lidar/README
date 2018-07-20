@@ -1,0 +1,3 @@
+
+LIDAR FILTERING 
+The test.py file along with the explanation contains the ROS node for filtering the data given by the ROS bag lidar_test_data.bag. The data extracted was of the LaserScan type. But while filtering only the range attribute was changed. When the test.py node is run on the data from the ROS bag file and the data is filtered.For further explanation please check the explanation pdf.
